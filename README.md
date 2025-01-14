@@ -88,7 +88,7 @@ Throughout this process, I keep the user informed of my progress and update the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/ rSr858U.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rSr858U.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To start, I need to set properties for all the tickets. For instance, I set the priority of each ticket as Sev-A (for the most critical ones), except for the SysAdmins ticket, which I set last. Once I set Sev-A, I observe that the ticket becomes inaccessible. This is likely because Sev-A tickets are treated as high-priority and have restrictions for certain roles, like SysAdmins, especially when access is limited to higher-level users.
